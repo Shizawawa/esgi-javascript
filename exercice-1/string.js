@@ -109,7 +109,4 @@ function vig(maChaine){
 	//Cryptage Chiffre de vigenère
 }
 
-maChaine = "Eh ! je test des trucs de fou aaaa eeeee iiiii. ooooooo. uuuuuu yyyyyyy";
-console.log(leet(maChaine));
-
 // Commit [DONE] exercice 1
